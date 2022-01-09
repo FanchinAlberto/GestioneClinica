@@ -1,0 +1,11 @@
+C:\Users\Alberto\source\repos\GestioneClinica\GestioneClinica\bin\Debug\GestioneClinica.exe.config
+C:\Users\Alberto\source\repos\GestioneClinica\GestioneClinica\bin\Debug\GestioneClinica.exe
+C:\Users\Alberto\source\repos\GestioneClinica\GestioneClinica\bin\Debug\GestioneClinica.pdb
+C:\Users\Alberto\source\repos\GestioneClinica\GestioneClinica\obj\Debug\GestioneClinica.csproj.AssemblyReference.cache
+C:\Users\Alberto\source\repos\GestioneClinica\GestioneClinica\obj\Debug\GestioneClinica.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alberto\source\repos\GestioneClinica\GestioneClinica\obj\Debug\GestioneClinica.Form1.resources
+C:\Users\Alberto\source\repos\GestioneClinica\GestioneClinica\obj\Debug\GestioneClinica.Properties.Resources.resources
+C:\Users\Alberto\source\repos\GestioneClinica\GestioneClinica\obj\Debug\GestioneClinica.csproj.GenerateResource.cache
+C:\Users\Alberto\source\repos\GestioneClinica\GestioneClinica\obj\Debug\GestioneClinica.csproj.CoreCompileInputs.cache
+C:\Users\Alberto\source\repos\GestioneClinica\GestioneClinica\obj\Debug\GestioneClinica.exe
+C:\Users\Alberto\source\repos\GestioneClinica\GestioneClinica\obj\Debug\GestioneClinica.pdb
